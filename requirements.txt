@@ -1,7 +1,4 @@
-streamlit
 ultralytics
 Pillow
 numpy
-opencv-python
 matplotlib
-YOLO
