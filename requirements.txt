@@ -2,5 +2,6 @@ streamlit
 ultralytics
 Pillow
 numpy
-opencv-python
+opencv
 matplotlib
+YOLO V8
